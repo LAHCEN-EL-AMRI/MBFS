@@ -40,4 +40,4 @@ User has two possibilities:
 
 # LICENSE
 
-- This project is licensed under GNU Affero General Public [License](https://github.com/LAHCEN-EL-AMRI/Gamma-spectra-analysis/blob/master/LICENSE)  v3.0 (see the LICENSE.md file for more information)
+- This project is licensed under GNU Affero General Public [License](https://github.com/LAHCEN-EL-AMRI/MBFS/blob/master/LICENSE)  v3.0 (see the LICENSE.md file for more information)
