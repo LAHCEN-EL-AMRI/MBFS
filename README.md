@@ -24,7 +24,7 @@ User has two possibilities:
 - With installation: click on setup and follow the steps.
 
 
-# Made with:
+# Dependencies:
 
 - [java language](https://www.oracle.com/java/)
 - [JFreeChart library](https://www.jfree.org/jfreechart/)
