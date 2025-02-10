@@ -12,7 +12,7 @@ software for managing binary .CHN files and ASCII .SPE files compatible with Gen
 
 
 
-# Prerequisites
+# Dependencies:
 A [manual](https://github.com/LAHCEN-EL-AMRI/MBFS/tree/master/MBFS/Converter/DOC) existed in the Doc folder explains in detail all the options of the graphical interface.
 
 
@@ -36,7 +36,7 @@ User has two possibilities:
 
 # Author
 * **LAHCEN EL AMRI** *lahssenelamri@gmail.com* *phd student* *Team of reactor physics, energy and nuclear safety, Faculty of Sciences, Mohammed V University of Rabat, Morocco
-*  **ABDELOUAHED CHETAINE** * professor* *Team of reactor physics, energy and nuclear safety, Faculty of Sciences, Mohammed V University of Rabat, Morocco
+*  **Omar EL BOUNAGUI** * professor* *LaMCScI, Faculty of Sciences, Mohammed V University of Rabat, Morocco
 * **HAMID AMSIL** *  amsil@cnesten.org.ma*  *recruiter* * Nuclear Centre of Energy, Science and Nuclear Techniques, Morocco
 
 # LICENSE
